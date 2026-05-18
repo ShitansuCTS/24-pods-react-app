@@ -19,7 +19,7 @@ import Reality from "./pages/Reality";
 import Gallery from "./pages/Gallery";
 import Contact from "./pages/Contact";
 import ScrollToTopButton from "./pages/ScrollToTopButton";
-import Packages from "./pages/packages";
+import Packages from "./pages/Packages";
 import Blogs from "./pages/Blogs";
 import BlogDetails from "./pages/BlogDetails";
 import HomeLP from "./pages/landingpage/HomeLP";
