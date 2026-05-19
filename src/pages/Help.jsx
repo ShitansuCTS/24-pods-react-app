@@ -111,7 +111,7 @@ const Help = () => {
 
                 {/* Left Side */}
                 <div className="col-lg-6 col-md-12 mb-4">
-                    <h2 className="section-title" style={{fontSize:"35px"}}>All that you need</h2>
+                    <h2 className="section-title" style={{fontSize:"35px"}}>All that you need !</h2>
                     <p className="section-subtitle">
                         From the first click of the camera to your audience hitting
                         <span className="highlight" style={{color:"#660033"}}> “play,”</span> we handle it all.
