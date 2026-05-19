@@ -4,7 +4,7 @@ const blogData = [
     slug: "podcast-editing-sydney",
     title: "How to Get Your Podcast Professionally Edited in Sydney",
     excerpt:
-      "podcast editor Sydney, audio editing podcast, podcast post-production Australia",
+      "podcast editor Sydney, audio editing podcast, podcast post-production Australia.",
     image: "/images/alaka-images/Vertical  (9).png",
     category: "Podcast Editing",
     date: "April 15, 2026",
